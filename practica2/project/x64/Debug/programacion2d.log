@@ -1,0 +1,46 @@
+﻿  main.cpp
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(69,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(69,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(69,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(69,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(75,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(79,27): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(94,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(98,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(113,178): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(113,158): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(113,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(113,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(117,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(117,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(117,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(117,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(121,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(121,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(124,135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(124,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(124,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(124,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(125,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(125,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(125,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(125,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(126,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(126,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(126,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(126,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(127,135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(127,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(127,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\src\main.cpp(127,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwGetCursorPos referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+..\lib\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Takeshi\OneDrive - U-tad\2D\TERMINADAS\practica2\project\x64\Debug\programacion2d.exe : fatal error LNK1120: 9 unresolved externals
